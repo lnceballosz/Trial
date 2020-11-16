@@ -5,13 +5,13 @@
 */
 
 
+/*
+* This is an example of file with syntax of C language
+*/
 
 
 
 
-njfdnkjdsnfkjs
 
-dfkndslkfndslkf
-ndsfljndsljfndsf
-+dsnfjsdnlfkjndsjfnsdf
-sdnflndsflkds
+
+
