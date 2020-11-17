@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Trial
+Upstream-Contact: Lina Ceballs <lina.ceballos@fsfe.org>
+Source: https://github.com/lnceballosz/Trial
+
+Files: berlin.jpg / freesoftware.jpeg
+Copyright: 2019 Translation Company
+License: GPL-3.0-or-later
+
+
