@@ -12,7 +12,7 @@ Upstream-Name: Trial
 Upstream-Contact: Lina Ceballs <lina.ceballos@fsfe.org>
 Source: https://github.com/lnceballosz/Trial
 
-Files: berlin.jpg / freesoftware.jpeg
+Files: media/
 Copyright: 2019 Translation Company
 License: GPL-3.0-or-later
 
